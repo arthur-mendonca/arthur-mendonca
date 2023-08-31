@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+💻My website: [ www.arthurmendonca.com ](https://www.arthurmendonca.com)
+🌱 I’m currently learning Next.JS, Nest.JS
+
 <!--
 **arthur-mendonca/arthur-mendonca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
