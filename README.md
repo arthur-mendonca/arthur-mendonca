@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- My techs: Full Stack Web Developer | JavaScript | React.js | Typescript | TypeORM | Express.js | PostgreSQL | Node.js | Styled Components | Django | DRF | Stitches | Styled Components | UI Path Studio | Python | 
 - 💻My website: [ www.arthurmendonca.com ](https://www.arthurmendonca.com)
 - 🌱 I’m currently learning Next.JS, Nest.JS
 
