@@ -24,7 +24,7 @@
 	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/>
 	<img width="50"  src="https://www.freeiconspng.com/uploads/dark-adobe-photoshop-icon-0.png"  alt="Photoshop" title="Photoshop">
-	<img width="50"  src="https://e7.pngegg.com/pngimages/595/279/png-clipart-vue-js-javascript-library-angularjs-react-vue-js-template-angle.png"  alt="Vue.js" title="Vue.js">
+	<img width="50"  src="[https://e7.pngegg.com/pngimages/595/279/png-clipart-vue-js-javascript-library-angularjs-react-vue-js-template-angle.png](https://w7.pngwing.com/pngs/980/549/png-transparent-vuejs-original-logo-icon.png)"  alt="Vue.js" title="Vue.js">
 </div>
 
 
