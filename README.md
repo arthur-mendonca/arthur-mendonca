@@ -25,6 +25,8 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/>
 	<img width="50"  src="https://www.freeiconspng.com/uploads/dark-adobe-photoshop-icon-0.png"  alt="Photoshop" title="Photoshop">
 	<img width="50"  src="https://w7.pngwing.com/pngs/980/549/png-transparent-vuejs-original-logo-icon.png"  alt="Vue.js" title="Vue.js">
+	<img width="50"  src="(https://skillicons.dev/icons?i=js,html,css,wasm)"  alt="Vue.js" title="Vue.js">
+	
 	[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </div>
 
