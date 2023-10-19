@@ -27,10 +27,14 @@
 	<img width="50"  src="https://w7.pngwing.com/pngs/980/549/png-transparent-vuejs-original-logo-icon.png"  alt="Vue.js" title="Vue.js"> -->
 	<img width="50"  src="https://skillicons.dev/icons?i=html"  alt="HTML" title="HTML Icon">
 	<img width="50"  src="https://skillicons.dev/icons?i=css"  alt="CSS" title="CSS Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
 	<img width="50"  src="https://skillicons.dev/icons?i=adonis"  alt="Adonis" title="Adonis Icon">
-	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
-	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
-	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=angular"  alt="Angular" title="Angular Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=django"  alt="Django" title="Django Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=express"  alt="express" title="express Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=figma"  alt="figma" title="figma Icon">
+	
+ 	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
 	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
 	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
 	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
