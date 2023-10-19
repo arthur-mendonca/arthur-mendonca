@@ -33,6 +33,8 @@
 	<img width="50"  src="https://skillicons.dev/icons?i=django"  alt="Django" title="Django Icon">
 	<img width="50"  src="https://skillicons.dev/icons?i=express"  alt="express" title="express Icon">
 	<img width="50"  src="https://skillicons.dev/icons?i=figma"  alt="figma" title="figma Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=git"  alt="git" title="git Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=github"  alt="github" title="github Icon">
 	
  	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
 	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
