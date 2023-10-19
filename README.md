@@ -28,6 +28,8 @@
 	<img width="50"  src="https://skillicons.dev/icons?i=html"  alt="HTML" title="HTML Icon">
 	<img width="50"  src="https://skillicons.dev/icons?i=css"  alt="CSS" title="CSS Icon">
 	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=react"  alt="react" title="react Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=ts"  alt="ts" title="ts Icon">
 	<img width="50"  src="https://skillicons.dev/icons?i=adonis"  alt="Adonis" title="Adonis Icon">
 	<img width="50"  src="https://skillicons.dev/icons?i=angular"  alt="Angular" title="Angular Icon">
 	<img width="50"  src="https://skillicons.dev/icons?i=django"  alt="Django" title="Django Icon">
@@ -35,17 +37,17 @@
 	<img width="50"  src="https://skillicons.dev/icons?i=figma"  alt="figma" title="figma Icon">
 	<img width="50"  src="https://skillicons.dev/icons?i=git"  alt="git" title="git Icon">
 	<img width="50"  src="https://skillicons.dev/icons?i=github"  alt="github" title="github Icon">
-	
- 	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
-	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
-	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
-	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
-	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
-	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
-	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
-	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
-	
-	[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+	<img width="50"  src="https://skillicons.dev/icons?i=nestjs"  alt="nestjs" title="nestjs Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=nodejs"  alt="nodejs" title="nodejs Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=ps"  alt="ps" title="ps Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=postgres"  alt="postgres" title="postgres Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=prisma"  alt="prisma" title="prisma Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=py"  alt="py" title="py Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=sqlite"  alt="sqlite" title="sqlite Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=tailwind"  alt="tailwind" title="tailwind Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=vercel"  alt="vercel" title="vercel Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=vue"  alt="vue" title="vue Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=wordpress"  alt="wordpress" title="wordpress Icon">
 </div>
 
 
