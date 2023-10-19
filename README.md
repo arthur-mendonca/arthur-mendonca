@@ -42,7 +42,6 @@
 	<img width="50"  src="https://skillicons.dev/icons?i=nodejs"  alt="nodejs" title="nodejs Icon">
 	<img width="50"  src="https://skillicons.dev/icons?i=ps"  alt="ps" title="ps Icon">
 	<img width="50"  src="https://skillicons.dev/icons?i=postgres"  alt="postgres" title="postgres Icon">
-
 	<img width="50"  src="https://skillicons.dev/icons?i=prisma"  alt="prisma" title="prisma Icon">
 	<img width="50"  src="https://skillicons.dev/icons?i=py"  alt="py" title="py Icon">
 	<img width="50"  src="https://skillicons.dev/icons?i=sqlite"  alt="sqlite" title="sqlite Icon">
