@@ -1,6 +1,7 @@
 ### Hi there 👋
 - My techs: Full Stack Web Developer | JavaScript | React.js | Typescript | TypeORM | Express.js | PostgreSQL | Node.js | Styled Components | Django | DRF | Stitches | Styled Components | UI Path Studio | Python | 
 - 💻My website: [ www.arthurmendonca.com ](https://www.arthurmendonca.com)
+- ✒️ [My Linkedin](https://www.linkedin.com/in/arthur-silva-mendonça/)
 - 🌱 I’m currently learning Adonis.js, Angular
 - My Instagram: https://www.instagram.com/arthurmendonca11/
 - My Behance: https://www.behance.net/arthurmendona
@@ -41,6 +42,7 @@
 	<img width="50"  src="https://skillicons.dev/icons?i=nodejs"  alt="nodejs" title="nodejs Icon">
 	<img width="50"  src="https://skillicons.dev/icons?i=ps"  alt="ps" title="ps Icon">
 	<img width="50"  src="https://skillicons.dev/icons?i=postgres"  alt="postgres" title="postgres Icon">
+
 	<img width="50"  src="https://skillicons.dev/icons?i=prisma"  alt="prisma" title="prisma Icon">
 	<img width="50"  src="https://skillicons.dev/icons?i=py"  alt="py" title="py Icon">
 	<img width="50"  src="https://skillicons.dev/icons?i=sqlite"  alt="sqlite" title="sqlite Icon">
