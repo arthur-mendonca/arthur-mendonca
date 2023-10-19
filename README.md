@@ -50,11 +50,8 @@
 	<img width="50"  src="https://skillicons.dev/icons?i=wordpress"  alt="wordpress" title="wordpress Icon">
 </div>
 
-
-
-
-<!--
-**arthur-mendonca/arthur-mendonca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--https://github.com/tandpfun/skill-icons#icons-list  RETIREI OS ÍCONES DESTE REPOSITÓRIO -->
+<!--**arthur-mendonca/arthur-mendonca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
