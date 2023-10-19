@@ -1,10 +1,10 @@
 ### Hi there 👋
 - My techs: Full Stack Web Developer | JavaScript | React.js | Typescript | TypeORM | Express.js | PostgreSQL | Node.js | Styled Components | Django | DRF | Stitches | Styled Components | UI Path Studio | Python | 
-- 💻My website: [ www.arthurmendonca.com ](https://www.arthurmendonca.com)
+- 💻[ My website](https://www.arthurmendonca.com)
 - ✒️ [My Linkedin](https://www.linkedin.com/in/arthur-silva-mendonça/)
 - 🌱 I’m currently learning Adonis.js, Angular
-- My Instagram: https://www.instagram.com/arthurmendonca11/
-- My Behance: https://www.behance.net/arthurmendona
+- [My Instagram](https://www.instagram.com/arthurmendonca11/)
+- [My Behance](https://www.behance.net/arthurmendona)
 
 <div align="left" style="max-width:100px">
 <!-- 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
