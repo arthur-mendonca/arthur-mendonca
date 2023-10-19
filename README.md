@@ -27,6 +27,16 @@
 	<img width="50"  src="https://w7.pngwing.com/pngs/980/549/png-transparent-vuejs-original-logo-icon.png"  alt="Vue.js" title="Vue.js"> -->
 	<img width="50"  src="https://skillicons.dev/icons?i=html"  alt="HTML" title="HTML Icon">
 	<img width="50"  src="https://skillicons.dev/icons?i=css"  alt="CSS" title="CSS Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=adonis"  alt="Adonis" title="Adonis Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
+	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
 	<img width="50"  src="https://skillicons.dev/icons?i=js"  alt="JS" title="JS Icon">
 	
 	[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
