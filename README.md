@@ -1,5 +1,5 @@
 # 💫 About Me:
-🟢 I'm currently working on a company called Goldspell Cosméticos and also creating N8N automations with AI; <br>🟢 I'm looking to collaborate on projects that use AI integrations;<br>🟢 I'm looking for help with learning system design and other devops matters to deepen my knowledge <br>🟢 I'm currently learning N8N automations<br>Ask me about Javascript, N8N, Next, Sequelize, <br>Fun Fact: I was born on a friday 13th, which is the 256th day of the year (or 2^8). 
+🟢 I'm currently working on a company called Goldspell Cosméticos and also creating N8N automations with AI; <br>🟢 I'm looking to collaborate on projects that use AI integrations;<br>🟢 I'm looking for help with learning system design and other devops matters to deepen my knowledge <br>🟢 I'm currently learning N8N automations<br>🟢 Ask me about Javascript, N8N, Next, Sequelize, <br>🟢 Fun Fact: I was born on a friday 13th, which is the 256th day of the year (or 2^8). 
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/arthurmendona) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-mendonca) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arthu91@gmail.com) 
