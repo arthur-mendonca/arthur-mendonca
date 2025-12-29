@@ -40,10 +40,16 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 </details>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arthur-mendonca&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arthur-mendonca&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-mendonca&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthur-mendonca&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="General Stats" />
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=arthur-mendonca&theme=radical&hide_border=false" alt="Streak Stats" />
+  
+  <br/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-mendonca&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arthur-mendonca&theme=radical&no-frame=false&no-bg=true&margin-w=4)
