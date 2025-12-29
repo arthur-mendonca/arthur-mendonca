@@ -44,11 +44,6 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthur-mendonca&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="General Stats" />
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=arthur-mendonca&theme=radical&hide_border=false" alt="Streak Stats" />
-  
-  <br/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-mendonca&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
