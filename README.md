@@ -1,7 +1,7 @@
 ### Hi there 👋
 - My techs: Full Stack Web Developer | JavaScript | React.js | Typescript | TypeORM | Express.js | PostgreSQL | Node.js | Styled Components | Django | DRF | Stitches | Styled Components | UI Path Studio | Python | 
 - 💻[ My website](https://www.arthurmendonca.com.br)
-- ✒️ [My Linkedin](https://www.linkedin.com/in/arthur-silva-mendonça/)
+- ✒️ [My Linkedin](https://www.linkedin.com/in/arthur-mendonca/)
 
 - [My Instagram](https://www.instagram.com/arthurmendonca11/)
 - [My Behance](https://www.behance.net/arthurmendona)
